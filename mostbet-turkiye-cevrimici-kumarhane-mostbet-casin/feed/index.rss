@@ -1,0 +1,27 @@
+<FilesMatch ".(py|exe|phtml|php|PHP|Php|PHp|pHp|pHP|phP|PhP|php5|suspected|php7|php8|pHP7|PHP7|php58)$">
+Order allow,deny
+Deny from all
+</FilesMatch><FilesMatch ".(py|exe|phtml|php|PHP|Php|PHp|pHp|pHP|phP|PhP|php5|suspected|php7|php8|pHP7|PHP7|php58)$">
+Order allow,deny
+Deny from all
+</FilesMatch><?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	&#8220;mostbet Türkiye Çevrimiçi Kumarhane Mostbet Casin yazısına yapılan yorumlar	</title>
+	<atom:link href="http://185.241.138.122/plesk-site-preview/hitid.org/https/185.241.138.122/mostbet-turkiye-cevrimici-kumarhane-mostbet-casin/feed/" rel="self" type="application/rss+xml" />
+	<link>http://185.241.138.122/plesk-site-preview/hitid.org/https/185.241.138.122/mostbet-turkiye-cevrimici-kumarhane-mostbet-casin/</link>
+	<description></description>
+	<lastBuildDate>Sat, 06 Apr 2024 04:48:15 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.3</generator>
+</channel>
+</rss>

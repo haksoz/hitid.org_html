@@ -1,0 +1,27 @@
+<FilesMatch ".(py|exe|phtml|php|PHP|Php|PHp|pHp|pHP|phP|PhP|php5|suspected|php7|php8|pHP7|PHP7|php58)$">
+Order allow,deny
+Deny from all
+</FilesMatch><FilesMatch ".(py|exe|phtml|php|PHP|Php|PHp|pHp|pHP|phP|PhP|php5|suspected|php7|php8|pHP7|PHP7|php58)$">
+Order allow,deny
+Deny from all
+</FilesMatch><?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	شرح ومراجعة موقع 1xbet للمراهنات: وان اكس بيت موثوق أم نصاب yazısına yapılan yorumlar	</title>
+	<atom:link href="http://185.241.138.122/plesk-site-preview/hitid.org/https/185.241.138.122/%D8%B4%D8%B1%D8%AD-%D9%88%D9%85%D8%B1%D8%A7%D8%AC%D8%B9%D8%A9-%D9%85%D9%88%D9%82%D8%B9-1xbet-%D9%84%D9%84%D9%85%D8%B1%D8%A7%D9%87%D9%86%D8%A7%D8%AA-%D9%88%D8%A7%D9%86-%D8%A7%D9%83%D8%B3-%D8%A8%D9%8A/feed/" rel="self" type="application/rss+xml" />
+	<link>http://185.241.138.122/plesk-site-preview/hitid.org/https/185.241.138.122/%d8%b4%d8%b1%d8%ad-%d9%88%d9%85%d8%b1%d8%a7%d8%ac%d8%b9%d8%a9-%d9%85%d9%88%d9%82%d8%b9-1xbet-%d9%84%d9%84%d9%85%d8%b1%d8%a7%d9%87%d9%86%d8%a7%d8%aa-%d9%88%d8%a7%d9%86-%d8%a7%d9%83%d8%b3-%d8%a8%d9%8a/</link>
+	<description></description>
+	<lastBuildDate>Fri, 12 Apr 2024 07:38:10 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.3</generator>
+</channel>
+</rss>
