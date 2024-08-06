@@ -992,7 +992,7 @@ select.form-control option[value=""][disabled] {
 .wizard-content-item {
   margin: 0 auto;
   max-width: 1100px;
-  padding-top: 90px;
+  padding: 40px 20px;
   padding-bottom: 68px;
 }
 .wizard-content-item h2 {
@@ -1461,7 +1461,7 @@ select.form-control option[value=""][disabled] {
   }
 
   .wizard-content-item p {
-    font-size: 24px;
+    font-size: 18px;
   }
 
   .wizard-topper .wizard-progress {
@@ -1549,7 +1549,7 @@ select.form-control option[value=""][disabled] {
   }
 
   .wizard-content-item {
-    padding-top: 60px;
+    padding: 40px 20px;
   }
 
   .actions {
@@ -1596,11 +1596,12 @@ select.form-control option[value=""][disabled] {
   }
 
   .wizard-content-item p {
-    font-size: 26px;
+    font-size: 16px;
   }
 
   .wizard-content-item {
-    padding-top: 85px;
+
+    padding: 40px 20px;
   }
 
   .wizard-option-list li {
