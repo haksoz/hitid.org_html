@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>Wizard V2</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="assets/css/bootstrap.min.css">
+	<link rel="stylesheet" href="assets/css/animate.min.css">
+	<link rel="stylesheet" href="assets/css/fontawesome-all.css">
+	<link rel="stylesheet" href="assets/css/style.css">
+	<link rel="stylesheet" type="text/css" href="assets/css/colors/switch.css">
+	<!-- Color Alternatives -->
+	<link href="assets/css/colors/color-2.css" rel="alternate stylesheet" type="text/css" title="color-2">
+	<link href="assets/css/colors/color-3.css" rel="alternate stylesheet" type="text/css" title="color-3">
+	<link href="assets/css/colors/color-4.css" rel="alternate stylesheet" type="text/css" title="color-4">
+	<link href="assets/css/colors/color-5.css" rel="alternate stylesheet" type="text/css" title="color-5">
+</head>
+
+<body>
+
+	<div class="clearfix"></div>
+
+	<div class="wrapper clearfix">
+
+ 
+		<!--multisteps-form-->
+		<div class="multisteps-form">
+			<!--progress bar-->
+
+			<!--form panels-->
+			<div class="row">
+				<div class="col-12 col-lg-12 m-auto">
+					<form class="multisteps-form__form clearfix" action="#" method="post" id="wizard">
+						
+						<!--single form panel-->
+						<div class="" data-animation="slideVert">
+			
+								<div class="wizard-content-item text-center">
+									<h2>Applicant Data</h2>
+									<p>Please take a salfie with your document so that it’s clearly
+									visible anddoses not cover your face.</p>
+								</div>
+								<div class="wizard-content-form">
+									<div class="wizard-form-field">
+										<div class="wizard-form-input position-relative form-group has-float-label">
+											<input type="text" name="name" class="form-control" placeholder="Title">
+											<label>Title</label>
+										</div>
+										<div class="wizard-form-input position-relative form-group has-float-label">
+											<input type="text" name="name" class="form-control" placeholder="First and Last Name">
+											<label>First and Last Name</label>
+										</div>
+										<div class="row">
+											<div class="col-md-6">
+												<div class="n-summary">
+													<span>Gender</span>
+													<label>
+														<input type="radio" checked="checked" name="radio">
+														<span class="checkmark">Famale</span>
+													</label>
+													<label>
+														<input type="radio" checked="checked" name="radio">
+														<span class="checkmark">Male</span>
+													</label>
+												</div>
+											</div>
+											<div class="col-md-6">
+												<div class="wizard-form-input position-relative form-group has-float-label">
+													<input type="text" class="form-control" name="department" placeholder="Department">
+													<label>Department</label>
+												</div>
+											</div>
+										</div>
+										<div class="wizard-form-input position-relative form-group has-float-label">
+											<i data-toggle="tooltip" data-placement="bottom" title="If you want your invoice address to a compnay. Leave blank to use full name" class="fa fa-info"></i>
+											<input type="text" class="form-control" name="institute" placeholder="Institute">
+											<label>Institute</label>
+										</div>
+										<div class="wizard-form-input position-relative form-group has-float-label">
+											<input type="text" class="form-control" name="name" placeholder="Address">
+											<label>Address</label>
+										</div>
+										<div class="row">
+											<div class="col-md-4">
+												<div class="wizard-form-input position-relative form-group has-float-label">
+													<input type="text" class="form-control" name="name" placeholder="City">
+													<label>City</label>
+												</div>
+											</div>
+											<div class="col-md-4">
+												<div class="wizard-form-input position-relative form-group has-float-label">
+													<input type="text" class="form-control" name="name" placeholder="Country">
+													<label>Country</label>
+												</div>
+											</div>
+											<div class="col-md-4">
+												<div class="wizard-form-input position-relative form-group has-float-label">
+													<input type="text" class="form-control" name="name" placeholder="Zip/Postal Code">
+													<label>Zip/Postal Code</label>
+												</div>
+											</div>
+										</div>
+										<div class="row">
+											<div class="col-md-6">
+												<div class="wizard-form-input position-relative form-group has-float-label">
+													<input type="text" class="form-control" name="phone" placeholder="Phone">
+													<label>Phone</label>
+												</div>
+											</div>
+											<div class="col-md-6">
+												<div class="wizard-form-input position-relative form-group has-float-label">
+													<input type="text" class="form-control" name="mobil-phone" placeholder="Mobile">
+													<label>Mobile</label>
+												</div>
+											</div>
+										</div>
+										<div class="wizard-form-input position-relative form-group has-float-label">
+											<input type="email" class="form-control" name="email" placeholder="Email Address">
+											<label>Email Address</label>
+										</div>
+										
+										
+										
+										<div class="row">
+											
+											<div class="col-md-4">
+												<div class="wizard-form-input position-relative form-group has-float-label mt-0 n-select-option">
+													<select id="country" name="country" class="form-control">
+														<option value="">Registration Type</option>
+														<option value="Physican">Physican</option>
+														<option value="Resident">Resident</option>
+														<option value="Company Representative">Company Representative</option>
+													</select>
+												</div>
+											</div>
+										</div>
+							
+									
+
+								</div>
+								<div class="wizard-footer">
+						
+									<div class="actions">
+										<ul>
+											<li><button type="submit" id="submit-form" title="NEXT">SUMBIT <i class="fa fa-arrow-right"></i></button></li>
+										</ul>
+									</div>
+								</div>
+						
+							</div>
+						</div>
+
+					</form>
+				</div>
+			</div>
+		</div>
+
+	</div>
+	<script src="assets/js/jquery-3.3.1.min.js"></script>
+	<script src="assets/js/popper.min.js"></script>
+	<script src="assets/js/bootstrap.min.js"></script>
+	<script src="assets/js/switch.js"></script>
+	<script src="assets/js/main.js"></script>
+	<script>
+		$("#files").change(function() {
+			filename = this.files[0].name
+			console.log(filename);
+		});
+	</script>
+</body>
+
+</html>
