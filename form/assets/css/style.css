@@ -325,11 +325,11 @@ select.form-control option[value=""][disabled] {
 }
 .actions li span,
 .actions li button {
-  height: 55px;
-  width: 200px;
+  height: 60px;
+  width: 222px;
   color: #fff;
   display: block;
-  font-size: 16px;
+  font-size: 20px;
   font-weight: 500;
   line-height: 55px;
   text-align: center;
@@ -342,8 +342,8 @@ select.form-control option[value=""][disabled] {
   position: relative;
 }
 .actions li:first-child span, .actions li:first-child button {
-  color: #8a8a8a;
-  background-color: #d3d3d600;
+  color: #fff;
+  background-color: #c6e0fd;
   border-color: #c6e0fd;
   border-radius: 3px;
 }
@@ -473,14 +473,14 @@ select.form-control option[value=""][disabled] {
 }
 .has-float-label i {
   position: absolute;
-  top: 25px;
-  left: 35px;
+  top: 20px;
+  left: 30px;
   width: 33px;
   height: 33px;
   color: #8dcef9;
   border: 1px solid #8dcef9;
   border-radius: 100%;
-  font-size: 10px;
+  font-size: 12px;
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
@@ -1014,7 +1014,7 @@ select.form-control option[value=""][disabled] {
 }
 .wizard-form-field input, .wizard-form-field select {
   width: 100%;
-  height: 80px;
+  height: 70px;
   border: none;
   overflow: visible;
   padding-left: 40px;
@@ -1031,7 +1031,7 @@ select.form-control option[value=""][disabled] {
   background-color: transparent;
 }
 .wizard-form-field select {
-  height: 80px !important;
+  height: 70px !important;
 }
 .wizard-form-field .wizard-form-input input::-webkit-input-placeholder, .wizard-form-field .wizard-form-input select::-webkit-input-placeholder {
   font-size: 20px;
@@ -1041,7 +1041,7 @@ select.form-control option[value=""][disabled] {
 }
 
 .wizard-footer {
-  min-height: 350px;
+  min-height: 200px;
 }
 
 .wizard-imgbg {
@@ -1282,9 +1282,9 @@ select.form-control option[value=""][disabled] {
 }
 
 .n-summary {
-  height: 80px;
+  height: 70px;
   padding-left: 30px;
-  line-height: 80px;
+  line-height: 70px;
   background-color: #ddeef9;
 }
 .n-summary span {
@@ -1397,7 +1397,7 @@ select.form-control option[value=""][disabled] {
   -webkit-appearance: none;
 }
 .n-select-option:after {
-  top: 25px;
+  top: 20px;
   right: 35px;
   font-size: 20px;
   content: "";
@@ -1558,6 +1558,9 @@ select.form-control option[value=""][disabled] {
   }
 }
 @media screen and (max-width: 767px) {
+  .mobile-center{
+    justify-content: center;
+  }
   .pb-100 {
     padding-bottom: 30px;
   }
@@ -1705,10 +1708,13 @@ select.form-control option[value=""][disabled] {
   }
 
   .n-summary {
-    height: inherit;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    /* height: inherit;
     line-height: inherit;
-    display: inline-block;
-    margin-bottom: 10px;
+    display: inline-block; */
+    margin-bottom: 28px;
   }
 
   .n-summary label {
