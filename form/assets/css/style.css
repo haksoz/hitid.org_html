@@ -311,7 +311,7 @@ select.form-control option[value=""][disabled] {
 
 .actions {
   position: absolute;
-  right: 50px;
+  right: 0px;
   bottom: 50px;
   z-index: 1;
 }
@@ -344,8 +344,12 @@ select.form-control option[value=""][disabled] {
 .actions li:first-child span, .actions li:first-child button {
   color: #fff;
   background-color: #c6e0fd;
-  border-color: #c6e0fd;
+  border-color: #86b5e8;
   border-radius: 3px;
+  transition: all;
+}
+.actions li:first-child button:hover {
+  background-color: #86b5e8;
 }
 .actions li:first-child span i, .actions li:first-child button i {
   left: -45px;
@@ -1026,6 +1030,28 @@ select.form-control option[value=""][disabled] {
   background-color: #ddeef9;
   border: 2px solid #ddeef9;
 }
+.wizard-form-field textarea {
+  width: 100%;
+  overflow: visible;
+  padding-left: 40px;
+  border-radius: 3px;
+  margin-bottom: 28px;
+  -webkit-transition: 0.3s all ease-out;
+  -o-transition: 0.3s all ease-out;
+  transition: 0.3s all ease-out;
+  background-color: #ddeef9;
+  border: 2px solid #ddeef9;
+  height: auto;
+}
+.wizard-form-field textarea::placeholder {
+  color: #5756a2;
+  font-size: 20px;
+  font-weight: 500;
+}
+.wizard-form-field textarea:focus {
+  border: 2px solid #5756a2;
+  background-color: transparent;
+}
 .wizard-form-field input:focus, .wizard-form-field select:focus {
   border: 2px solid #5756a2;
   background-color: transparent;
@@ -1392,7 +1418,7 @@ select.form-control option[value=""][disabled] {
   font-size: 20px;
   font-weight: 500;
   padding-left: 30px;
-  border: 2px solid #c3e8ff;
+  border: 2px solid #ddeef9;
   background-color: #ddeef9;
   -webkit-appearance: none;
 }
