@@ -994,7 +994,7 @@ button i {
   z-index: 1;
 }
 .slick-slider:not(.feat-caro) > button.slick-arrow {
-  background-color: #000;
+  background-color: #e8f3f5;
   color: #fff;
   top: 50%;
   -webkit-transform: translateY(-50%);
