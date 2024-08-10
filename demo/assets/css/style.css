@@ -524,7 +524,7 @@ footer {
 .mrg20 {margin: 0 -0.625rem;}
 .mrg20 div[class^="col"] {padding: 0 0.625rem;}
 .mrg30 {margin: 0 -0.9375rem;}
-.mrg30 div[class^="col"] {padding: 0 0.9375rem;}
+.mrg30 div[class^="col"] {padding: 0 0.9375rem; padding-bottom: 20px;}
 .mrg10 {margin: 0 -0.3125rem;}
 .mrg10 div[class^="col"] {padding: 0 0.3125rem;}
 .mrg40 {margin: 0 -1.25rem;}
@@ -1946,13 +1946,13 @@ body.sticky .sticky-menu {
   right: 0;
 }
 .lg-mn {
-  padding: 3.125rem 5rem 1.125rem .9375rem;
+  padding: 1.125rem 5rem 1.125rem .9375rem;
   position: relative;
   width: 100%;
   display: flex;
   flex-wrap: wrap;
   align-items: center;
-  justify-content: space-between;
+  justify-content: center;
 }
 .rspn-cnt {display: inline-block;}
 .rspn-cnt > span {
@@ -6235,7 +6235,7 @@ figure > a {
 .sn-main-slider .slide{
 	position:relative;
 	overflow:hidden;
-	padding:30px 0px 170px;
+	padding:30px 0px 130px;
 }
 
 .sn-main-slider .content-column{

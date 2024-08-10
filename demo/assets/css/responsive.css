@@ -389,7 +389,7 @@ ul.meta > li:not(:first-child) {padding-left: 1rem;margin-left: 1rem;}
 .pb-130,
 .get-time-wrap, 
 .method-apply-wrap {padding-bottom: 5rem;}
-.pt-80 {padding-top: 4rem;}
+.pt-80 {padding-top: 2rem;}
 .pb-80 {padding-bottom: 4rem;}
 .enroll-wrap.overlap-120 {margin-bottom: -5rem;}
 .find-therapist-form-wrap.overlap340 {margin-top: 5rem;}
@@ -585,7 +585,7 @@ ul.meta > li:not(:first-child):before {display: none;}
 .get-time-wrap, 
 .method-apply-wrap,
 .video-box-wrap, 
-.impact-wrap {padding-bottom: 4rem;}
+.impact-wrap {padding-bottom: 2rem;}
 .pt-325 {padding-top: 12rem;}
 .pb-325 {padding-bottom: 12rem;}
 .mt-60,
