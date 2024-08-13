@@ -15,14 +15,16 @@
 	<link href="assets/css/colors/color-3.css" rel="alternate stylesheet" type="text/css" title="color-3">
 	<link href="assets/css/colors/color-4.css" rel="alternate stylesheet" type="text/css" title="color-4">
 	<link href="assets/css/colors/color-5.css" rel="alternate stylesheet" type="text/css" title="color-5">
-    <style>
-        .form-control.error {
-            border-color: red;
-        }
-        .form-control.error::placeholder {
-            color: red;
-        }
-    </style>
+	<script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
+	<style>
+		.form-control.error {
+			border-color: red;
+		}
+
+		.form-control.error::placeholder {
+			color: red;
+		}
+	</style>
 </head>
 
 <body>
@@ -33,29 +35,29 @@
 
 		<!--multisteps-form-->
 		<div class="multisteps-form">
-            <?php error_reporting(E_ALL & ~E_NOTICE);
-            $url = (isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on' ? "https" : "http") . "://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]";
-            if (isset(parse_url($url)['query'])) {
-                parse_str(parse_url($url)['query'], $params);
-                if ($params['q'] == 'basarili') {
-                    echo ('<div class="alert alert-success text-center" id="mydiv21" role="alert" style="margin-top: 20px;">Form Gönderme İşlemi Başarılı</div>');
-                }
-                if ($params['q'] == 'basarisiz') {
-                    echo ('<div class="alert alert-danger text-center" id="mydiv22" role="alert" style="margin-top: 20px;">Form Gönderme İşlemi Başarısız</div>');
-                }
-                if ($params['q'] == 'eksik') {
-                    echo ('<div class="alert alert-warning text-center" id="mydiv23" role="alert" style="margin-top: 20px;">Form Alanları eksik</div>');
-                }
-                if (isset($params['fields'])){
-                    echo "<script>";
-                    $item =null;
-                    foreach ( $params['fields'] as $item ){
-                        echo ("document.addEventListener('DOMContentLoaded', function () {addErrorClassToInputByName('".$item."');});");
-                    }
-                    echo "</script>";
-                }
-            }
-            ?>
+			<?php error_reporting(E_ALL & ~E_NOTICE);
+			$url = (isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on' ? "https" : "http") . "://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]";
+			if (isset(parse_url($url)['query'])) {
+				parse_str(parse_url($url)['query'], $params);
+				if ($params['q'] == 'basarili') {
+					echo ('<div class="alert alert-success text-center" id="mydiv21" role="alert" style="margin-top: 20px;">Form Gönderme İşlemi Başarılı</div>');
+				}
+				if ($params['q'] == 'basarisiz') {
+					echo ('<div class="alert alert-danger text-center" id="mydiv22" role="alert" style="margin-top: 20px;">Form Gönderme İşlemi Başarısız</div>');
+				}
+				if ($params['q'] == 'eksik') {
+					echo ('<div class="alert alert-warning text-center" id="mydiv23" role="alert" style="margin-top: 20px;">Form Alanları eksik</div>');
+				}
+				if (isset($params['fields'])) {
+					echo "<script>";
+					$item = null;
+					foreach ($params['fields'] as $item) {
+						echo ("document.addEventListener('DOMContentLoaded', function () {addErrorClassToInputByName('" . $item . "');});");
+					}
+					echo "</script>";
+				}
+			}
+			?>
 			<!--form panels-->
 			<div class="row">
 				<div class="col-12 col-lg-10 col-xl-8 m-auto">
@@ -108,16 +110,13 @@
 									</div>
 									<div class="row">
 										<div class="col-md-6">
-											<div class="n-summary">
-												<span>Gender</span>
-												<label>
-													<input type="radio" name="gender" id="female" required>
-													<span class="checkmark">Female</span>
-												</label>
-												<label>
-													<input type="radio" checked="checked" name="gender" id="male" required>
-													<span class="checkmark">Male</span>
-												</label>
+											<div class="wizard-form-input position-relative form-group has-float-label mt-0 n-select-option">
+												<select id="gender" name="gender" class="form-control" required>
+													<option value="" disabled selected hidden>Gender</option>
+													<option value="Female">Female</option>
+													<option value="Male">Male</option>
+													<option value="Prefer not to Say">Prefer not to Say</option>
+												</select>
 											</div>
 										</div>
 										<div class="col-md-6">
@@ -128,12 +127,12 @@
 										</div>
 									</div>
 									<div class="wizard-form-input position-relative form-group has-float-label">
-										<i data-toggle="tooltip" data-placement="bottom" title="If you want your invoice address to a compnay. Leave blank to use full name" class="fa fa-info"></i>
+										<!--	<i data-toggle="tooltip" data-placement="bottom" title="If you want your invoice address to a compnay. Leave blank to use full name" class="fa fa-info"></i> -->
 										<input type="text" class="form-control" name="institute" placeholder="Institute" required>
 										<label>Institute</label>
 									</div>
 									<div class="wizard-form-input position-relative form-group has-float-label">
-										<textarea class="form-control" name="address" placeholder="Address" cols="30" rows="3" required></textarea>
+										<textarea class="form-control" name="address" placeholder="Address" cols="30" rows="3" required></textarea><label>Address</label>
 									</div>
 									<div class="row">
 										<div class="col-md-4">
@@ -177,14 +176,17 @@
 											</div>
 										</div>
 										<div class="col-md-4">
-											<div class="wizard-form-input position-relative form-group has-float-label mt-0 n-select-option">
-												<select id="country" name="registration" class="form-control" required>
-													<option value="">Registration Type</option>
+											<div class="wizard-form-input position-relative form-group has-float-label mt-0 n-select-option" x-data="{ selectedOption: '', showOther: false }">
+												<select id="country" name="registration" class="form-control" required x-model="selectedOption" @change="showOther = (selectedOption === 'Other')">
+													<option value="" disabled selected hidden>Registration Type</option>
 													<option value="Physican">Physican</option>
 													<option value="Resident">Resident</option>
-													<option value="Company Representative">Company Representative
-													</option>
+													<option value="Company Representative">Company Representative</option>
+													<option value="Other">Other</option>
 												</select>
+												<div x-show="showOther" x-transition>
+													<input id="otherText" type="text" x-bind:required="showOther" placeholder="Specify other..." />
+												</div>
 											</div>
 										</div>
 									</div>
@@ -210,22 +212,22 @@
 	<script src="assets/js/switch.js"></script>
 	<script src="assets/js/main.js"></script>
 	<script>
-		$("#files").change(function () {
+		$("#files").change(function() {
 			filename = this.files[0].name
 			console.log(filename);
 		});
 	</script>
-    <script>
-        function addErrorClassToInputByName(inputName) {
-            // name özelliği verilen input öğesini seçin
-            var inputElement = document.querySelector('input[name="' + inputName + '"]');
+	<script>
+		function addErrorClassToInputByName(inputName) {
+			// name özelliği verilen input öğesini seçin
+			var inputElement = document.querySelector('input[name="' + inputName + '"]');
 
-            // Eğer input öğesi mevcutsa, ona 'error' sınıfını ekleyin
-            if (inputElement) {
-                inputElement.classList.add('error');
-            }
-        }
-    </script>
+			// Eğer input öğesi mevcutsa, ona 'error' sınıfını ekleyin
+			if (inputElement) {
+				inputElement.classList.add('error');
+			}
+		}
+	</script>
 </body>
 
 </html>
