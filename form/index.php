@@ -5,17 +5,17 @@
 	<meta charset="utf-8">
 	<title>Wizard V2</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<link rel="stylesheet" href="assets/css/bootstrap.min.css">
-	<link rel="stylesheet" href="assets/css/animate.min.css">
-	<link rel="stylesheet" href="assets/css/fontawesome-all.css">
-	<link rel="stylesheet" href="assets/css/style.css?v=002">
-	<link rel="stylesheet" type="text/css" href="assets/css/colors/switch.css">
+	<link rel="stylesheet" href="assets/css/bootstrap.min.css?v=003">
+	<link rel="stylesheet" href="assets/css/animate.min.css?v=003">
+	<link rel="stylesheet" href="assets/css/fontawesome-all.css?v=003">
+	<link rel="stylesheet" href="assets/css/style.css?v=003">
+	<link rel="stylesheet" type="text/css" href="assets/css/colors/switch.css?v=003">
 	<!-- Color Alternatives -->
-	<link href="assets/css/colors/color-2.css" rel="alternate stylesheet" type="text/css" title="color-2">
-	<link href="assets/css/colors/color-3.css" rel="alternate stylesheet" type="text/css" title="color-3">
-	<link href="assets/css/colors/color-4.css" rel="alternate stylesheet" type="text/css" title="color-4">
-	<link href="assets/css/colors/color-5.css" rel="alternate stylesheet" type="text/css" title="color-5">
-	<script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
+	<link href="assets/css/colors/color-2.css?v=003" rel="alternate stylesheet" type="text/css" title="color-2">
+	<link href="assets/css/colors/color-3.css?v=003" rel="alternate stylesheet" type="text/css" title="color-3">
+	<link href="assets/css/colors/color-4.css?v=003" rel="alternate stylesheet" type="text/css" title="color-4">
+	<link href="assets/css/colors/color-5.css?v=003" rel="alternate stylesheet" type="text/css" title="color-5">
+	<script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js?v=003"></script>
 	<style>
 		.form-control.error {
 			border-color: red;
@@ -206,11 +206,11 @@
 		</div>
 
 	</div>
-	<script src="assets/js/jquery-3.3.1.min.js"></script>
-	<script src="assets/js/popper.min.js"></script>
-	<script src="assets/js/bootstrap.min.js"></script>
-	<script src="assets/js/switch.js"></script>
-	<script src="assets/js/main.js"></script>
+	<script src="assets/js/jquery-3.3.1.min.js?v=003"></script>
+	<script src="assets/js/popper.min.js?v=003"></script>
+	<script src="assets/js/bootstrap.min.js?v=003"></script>
+	<script src="assets/js/switch.js?v=003"></script>
+	<script src="assets/js/main.js?v=003"></script>
 	<script>
 		$("#files").change(function() {
 			filename = this.files[0].name
