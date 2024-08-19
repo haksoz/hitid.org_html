@@ -182,6 +182,10 @@
 													<option value="Physican">Physican</option>
 													<option value="Resident">Resident</option>
 													<option value="Company Representative">Company Representative</option>
+													<option value="Phd Student">Phd Student</option>
+													<option value="Laboratory Director">Laboratory Director</option>
+													<option value="Laboratory Supervisor">Laboratory Supervisor</option>
+													<option value="Laboratory Technician">Laboratory Technician</option>
 													<option value="Other">Other</option>
 												</select>
 												<div x-show="showOther" x-transition>
