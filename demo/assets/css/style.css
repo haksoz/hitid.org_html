@@ -615,7 +615,7 @@ footer {
   width: 100%;
   z-index: -1;
 }
-.black-layer:before {background-color: #000000;}
+/* .black-layer:before {background-color: #000000;} */
 .white-layer:before {background-color:#ffffff;}
 .gray-layer:before {background-color: var(--color6);}
 .dark-layer:before {background-color: var(--color11);}
@@ -5393,7 +5393,7 @@ ol.breadcrumb li.breadcrumb-item + li.breadcrumb-item:before {
 }
 .post-detail > p {font-size: 1rem;}
 .post-detail > ul:not(.meta3), 
-.post-detail > p + p {margin-top: 2rem;}
+.post-detail > p + p {margin-top: 1rem;}
 .post-detail > ul + p {
   clear: both;
   margin-top: 2rem;
