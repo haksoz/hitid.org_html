@@ -45,8 +45,8 @@
         <div class="bottom-bar-inner d-flex flex-wrap align-items-center justify-content-between w-100">
             <div class="logo v2 z1 bg-color10 position-relative">
                 <h1 class="mb-0"><a class="d-block" href="index.php" title="Home"><img class="img-fluid"
-                            src="doc/HITID-LOGO-150.png" alt="Logo"
-                            srcset="doc/HITID-LOGO-150.png" style="width: 120px;"></a></h1>
+                            src="/doc/HITID-LOGO-150.png" alt="Logo"
+                            srcset="/doc/HITID-LOGO-150.png" style="width: 120px;"></a></h1>
             </div><!-- Logo -->
             <div class="copyright-links d-inline-flex flex-wrap align-items-center justify-content-between">
                 <p class="mb-0">Copyright 2024 - <a href="https://ko.com.tr/" title="Kapital Online" target="_blank">Kapital Online.</a></p>

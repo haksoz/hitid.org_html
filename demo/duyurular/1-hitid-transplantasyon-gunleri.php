@@ -18,11 +18,6 @@
                     <div class="page-title-wrap text-center w-100">
                         <div class="page-title-inner d-inline-block">
                             <h1 class="mb-0">I. HİTİD Transplantasyon Günleri</h1>
-                            <ol class="breadcrumb mb-0 justify-content-center">
-                                <li class="breadcrumb-item"><a href="index.php" title="">Anasayfa</a></li>
-                                <li class="breadcrumb-item">Duyurular</li>
-                                <li class="breadcrumb-item active">I. HİTİD Transplantasyon Günleri</li>
-                            </ol>
                         </div>
                     </div><!-- Page Title Wrap -->
                 </div>
