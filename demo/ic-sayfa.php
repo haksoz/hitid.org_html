@@ -47,7 +47,7 @@
                                         </div>
                                     </aside><!-- Sidebar -->
                                 </div>
-                                <div class="col-md-12 col-sm-12 col-lg-8">
+                                 <div class="col-md-12 col-sm-12 col-lg-8  order-mobile-first">
                                     <div class="post-detail w-100">
                                         <div class="post-feat-img serv-detail-img brd-rd10 position-relative overflow-hidden w-100">
                                             <img class="img-fluid w-100" src="assets/images/resources/service-detail-img.jpg" alt="Service Detail Image">

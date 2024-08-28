@@ -47,7 +47,7 @@
                                     </div>
                                 </aside><!-- Sidebar -->
                             </div>
-                            <div class="col-md-12 col-sm-12 col-lg-8">
+                             <div class="col-md-12 col-sm-12 col-lg-8  order-mobile-first">
                                 <div class="post-detail w-100">
                                     <h3 class="mb-0">HLA İMMÜNOGENETİĞİ VE TRANSPLANTASYON İMMÜNOLOJİSİ DERNEĞİ (HİTİD) TÜZÜĞÜ</h3>
                                     <p class="mb-0">

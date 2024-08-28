@@ -51,7 +51,7 @@
                                     </div>
                                 </aside><!-- Sidebar -->
                             </div>
-                            <div class="col-md-12 col-sm-12 col-lg-8">
+                             <div class="col-md-12 col-sm-12 col-lg-8  order-mobile-first">
                                 <div class="post-detail w-100">
                                     <h3>25/11/2022 BEPT - ÜSKÜP Toplantımız</h3>
                                 </div>
