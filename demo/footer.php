@@ -18,10 +18,10 @@
                         <div class="widget-box v2 w-100">
                             <h4 class="widget-title2 position-relative">Site Haritası</h4>
                             <ul class="mb-0 list-unstyled w-100">
-                                <li><a href="index.php" title="">Anasayfa</a></li>
-                                <li><a href="25-aralik-2023-5-hla-gunleri.php" title="">Faaliyetler</a></li>
-                                <li><a href="balkan-ept-meeting.php" title="">Duyurular</a></li>
-                                <li><a href="iletisim.php" title="">İletişim</a></li>
+                                <li><a href="/index.php" title="">Anasayfa</a></li>
+                                <li><a href="/faaliyetler/25-aralik-2023-5-hla-gunleri.php" title="">Faaliyetler</a></li>
+                                <li><a href="/duyurular/balkan-ept-meeting.php" title="">Duyurular</a></li>
+                                <li><a href="/iletisim.php" title="">İletişim</a></li>
                             </ul>
                             <div class="social-links3 d-flex flex-wrap align-items-center w-100">
                                 <a class="rounded-circle twitter-hvr" href="#"

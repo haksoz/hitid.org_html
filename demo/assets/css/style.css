@@ -6589,7 +6589,7 @@ figure > a {
 
 .sn-feature-block .inner-box .content .icon{
 	position:absolute;
-  left: 8px;
+  left: 0px;
   top: -13px;
 	color:#ffffff;
 	font-size:58px;

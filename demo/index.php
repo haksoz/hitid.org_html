@@ -44,7 +44,7 @@
                             <div class="sn-feature-block col-lg-4 col-md-6 col-sm-12">
                                 <div class="inner-box">
                                     <div class="content">
-                                        <span class="icon fas fa-child"></span>
+                                        <span class="icon fas fa-chalkboard-teacher"></span>
                                         <h4>Yönetim Kurulu</h4>
                                     </div>
                                 </div>
@@ -54,7 +54,7 @@
                             <div class="sn-feature-block active col-lg-4 col-md-6 col-sm-12">
                                 <div class="inner-box">
                                     <div class="content">
-                                        <span class="icon fas fa-medal"></span>
+                                        <span class="icon fa fa-users"></span>
                                         <h4>Çalışma Grupları</h4>
                                     </div>
                                 </div>
@@ -64,7 +64,7 @@
                             <div class="sn-feature-block col-lg-4 col-md-6 col-sm-12">
                                 <div class="inner-box">
                                     <div class="content">
-                                        <span class="icon fas fa-horse-head"></span>
+                                        <span class="icon fas fa-id-card"></span>
                                         <h4>Üyelik Formu</h4>
                                     </div>
                                 </div>

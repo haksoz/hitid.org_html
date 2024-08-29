@@ -3,13 +3,13 @@
 
 <head>
     <title>Balkanlar EPT Toplantısı | HİTİD</title>
-    <?php include('head.php') ?>
+    <?php include('../head.php') ?>
 
 </head>
 
 <body>
     <main>
-        <?php include('header.php') ?>
+        <?php include('../header.php') ?>
 
         <section>
             <div class="w-100 pt-50 black-layer pb-50 position-relative">
@@ -38,12 +38,7 @@
                                     <div class="widget-box v3 brd-rd10 bg-color6 services_widget overflow-hidden w-100">
                                         <h4 class="position-relative tit-shp widget-title3">Duyurular</h4>
                                         <ul class="mb-0 list-unstyled w-100">
-                                            <li><a href="balkan-ept-meeting.php" title="">Balkan EPT Meeting</a></li>
-                                            <li><a href="2-transplantasyon-immunolojisi-kursu.php" title="">II. Transplantasyon
-                                                    İmmünolojisi Kursu</a></li>
-                                            <li><a href="1-hitid-transplantasyon-gunleri.php" title="">I. HİTİD Transplantasyon
-                                                    Günleri</a></li>
-                                            <li><a href="balkanlar-ept-toplantisi.php" title="">Balkanlar EPT Toplantısı</a></li>
+                                            <?php include('solmenu-duyurular.php') ?>
                                         </ul>
                                     </div>
                                 </aside><!-- Sidebar -->
@@ -55,7 +50,7 @@
                                             Bölge: Balkanlar EPT Toplantısı” na katılarak ülkemizi başarı ile temsil
                                             ettik.</p>
                                     <div class="post-feat-img serv-detail-img brd-rd10 position-relative overflow-hidden w-100">
-                                        <img class="img-fluid w-100" src="doc/EFI-1-1024x1024.jpeg" alt="Service Detail Image">
+                                        <img class="img-fluid w-100" src="/doc/EFI-1-1024x1024.jpeg" alt="Service Detail Image">
                                     </div>
 
                                 </div>
@@ -78,11 +73,11 @@
             </div>
         </section>
 
-        <?php include('footer.php') ?>
+        <?php include('../footer.php') ?>
 
     </main><!-- Main Wrapper -->
 
-    <?php include('script.php') ?>
+    <?php include('../script.php') ?>
 
 </body>
 
