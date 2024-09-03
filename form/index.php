@@ -3,7 +3,7 @@
 
 <head>
 	<meta charset="utf-8">
-	<title>Wizard V2</title>
+	<title>Balkan EPT Meeting Registration</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link rel="stylesheet" href="assets/css/bootstrap.min.css?v=003">
 	<link rel="stylesheet" href="assets/css/animate.min.css?v=003">
@@ -40,13 +40,13 @@
 			if (isset(parse_url($url)['query'])) {
 				parse_str(parse_url($url)['query'], $params);
 				if ($params['q'] == 'basarili') {
-					echo ('<div class="alert alert-success text-center" id="mydiv21" role="alert" style="margin-top: 20px;">Form Gönderme İşlemi Başarılı</div>');
+					echo ('<div class="alert alert-success text-center" id="mydiv21" role="alert" style="margin-top: 20px;">Form Submission Successful</div>');
 				}
 				if ($params['q'] == 'basarisiz') {
-					echo ('<div class="alert alert-danger text-center" id="mydiv22" role="alert" style="margin-top: 20px;">Form Gönderme İşlemi Başarısız</div>');
+					echo ('<div class="alert alert-danger text-center" id="mydiv22" role="alert" style="margin-top: 20px;">Form Gönderme İşlemi Failed</div>');
 				}
 				if ($params['q'] == 'eksik') {
-					echo ('<div class="alert alert-warning text-center" id="mydiv23" role="alert" style="margin-top: 20px;">Form Alanları eksik</div>');
+					echo ('<div class="alert alert-warning text-center" id="mydiv23" role="alert" style="margin-top: 20px;">Form Fields are missing</div>');
 				}
 				if (isset($params['fields'])) {
 					echo "<script>";
