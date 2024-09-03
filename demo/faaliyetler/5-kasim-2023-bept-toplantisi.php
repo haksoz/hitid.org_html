@@ -2,7 +2,7 @@
 <html lang="TR">
 
 <head>
-    <title>05 Kasım 2023 BEPT Toplantısı | HİTİD</title>
+    <title>05 Kasım 2023 BEPT Toplantısı | HLA İmmünogenetiği ve Transplantasyon İmmünolojisi Derneği</title>
     <?php include('../head.php') ?>
 
 </head>

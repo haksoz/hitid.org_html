@@ -2,7 +2,7 @@
 <html lang="TR">
 
 <head>
-    <title>08-09 Haziran 2023 Transplantasyon İmmünolojisi Kursları | HİTİD</title>
+    <title>II. Transplantasyon İmmünolojisi Kursu 08-09 Haziran 2023 | HLA İmmünogenetiği ve Transplantasyon İmmünolojisi Derneği</title>
     <?php include('../head.php') ?>
 
 </head>
@@ -17,7 +17,7 @@
                 <div class="container">
                     <div class="page-title-wrap text-center w-100">
                         <div class="page-title-inner d-inline-block">
-                            <h1 class="mb-0">08-09 Haziran 2023 Transplantasyon İmmünolojisi Kursları</h1>
+                            <h1 class="mb-0">II. Transplantasyon İmmünolojisi Kursu 08-09 Haziran 2023</h1>
                         </div>
                     </div><!-- Page Title Wrap -->
                 </div>
@@ -32,12 +32,24 @@
                                 <?php include('solmenu-faaliyetler.php') ?>
                             </div>
                              <div class="col-md-12 col-sm-12 col-lg-8  order-mobile-first">
-                                <div class="post-detail w-100">
-                                    <h3>08-09 Haziran 2023 Transplantasyon İmmünolojisi Kursları “Transplantasyon İmmünolojisinde Akan Hücre Ölçer Uygulamaları</h3>
+                                <div class="widget-box v3 brd-rd10 bg-color6 instagram_widget overflow-hidden w-100">
+                                    <h4 class="position-relative tit-shp widget-title3">II. Transplantasyon İmmünolojisi Kursundan Kareler</h4>
+                                    <ul class="insta-gal-list list-unstyled d-flex flex-wrap align-items-center">
+                                        <li><a href="/doc/faaliyetler/8-9-haziran/kurstan-kareler-01.jpg" data-fancybox="gallery" title=""><img class="img-fluid w-100" src="/doc/faaliyetler/8-9-haziran/kurstan-kareler-01.jpg" alt="08-09 Haziran 2023 Transplantasyon İmmünolojisi Kursları"></a></li>
+                                        <li><a href="/doc/faaliyetler/8-9-haziran/kurstan-kareler-02.jpg" data-fancybox="gallery" title=""><img class="img-fluid w-100" src="/doc/faaliyetler/8-9-haziran/kurstan-kareler-02.jpg" alt="08-09 Haziran 2023 Transplantasyon İmmünolojisi Kursları"></a></li>
+                                        <li><a href="/doc/faaliyetler/8-9-haziran/kurstan-kareler-03.jpg" data-fancybox="gallery" title=""><img class="img-fluid w-100" src="/doc/faaliyetler/8-9-haziran/kurstan-kareler-03.jpg" alt="08-09 Haziran 2023 Transplantasyon İmmünolojisi Kursları"></a></li>
+                                        <li><a href="/doc/faaliyetler/8-9-haziran/kurstan-kareler-04.jpg" data-fancybox="gallery" title=""><img class="img-fluid w-100" src="/doc/faaliyetler/8-9-haziran/kurstan-kareler-04.jpg" alt="08-09 Haziran 2023 Transplantasyon İmmünolojisi Kursları"></a></li>
+                                        <li><a href="/doc/faaliyetler/8-9-haziran/kurstan-kareler-05.jpg" data-fancybox="gallery" title=""><img class="img-fluid w-100" src="/doc/faaliyetler/8-9-haziran/kurstan-kareler-05.jpg" alt="08-09 Haziran 2023 Transplantasyon İmmünolojisi Kursları"></a></li>
+                                        <li><a href="/doc/faaliyetler/8-9-haziran/kurstan-kareler-06.jpg" data-fancybox="gallery" title=""><img class="img-fluid w-100" src="/doc/faaliyetler/8-9-haziran/kurstan-kareler-06.jpg" alt="08-09 Haziran 2023 Transplantasyon İmmünolojisi Kursları"></a></li>
+                                        <li><a href="/doc/faaliyetler/8-9-haziran/kurstan-kareler-07.jpg" data-fancybox="gallery" title=""><img class="img-fluid w-100" src="/doc/faaliyetler/8-9-haziran/kurstan-kareler-07.jpg" alt="08-09 Haziran 2023 Transplantasyon İmmünolojisi Kursları"></a></li>
+                                      
+                                      
+                                    </ul>
                                 </div>
+                                
 
                                 <div class="widget-box v3 brd-rd10 bg-color6 instagram_widget overflow-hidden w-100 mt-50">
-                                    <h4 class="position-relative tit-shp widget-title3">Galeri</h4>
+                                    <h4 class="position-relative tit-shp widget-title3">Transplantasyon İmmünolojisinde Akan Hücre Ölçer Uygulamaları</h4>
                                     <ul class="insta-gal-list list-unstyled d-flex flex-wrap align-items-center">
                                         <li><a href="/doc/faaliyetler/8-9-haziran/8-9-haziran-031.jpg" data-fancybox="gallery" title=""><img class="img-fluid w-100" src="/doc/faaliyetler/8-9-haziran/8-9-haziran-031.jpg" alt="08-09 Haziran 2023 Transplantasyon İmmünolojisi Kursları"></a></li>
                                         <li><a href="/doc/faaliyetler/8-9-haziran/8-9-haziran-030.jpg" data-fancybox="gallery" title=""><img class="img-fluid w-100" src="/doc/faaliyetler/8-9-haziran/8-9-haziran-030.jpg" alt="08-09 Haziran 2023 Transplantasyon İmmünolojisi Kursları"></a></li>

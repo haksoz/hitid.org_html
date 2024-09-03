@@ -27,7 +27,7 @@
                 class="logo-menu-inner d-flex flex-wrap align-items-center justify-content-between position-relative w-100">
                 <div class="logo v2 z1 bg-color10 position-absolute text-center">
                     <h1 class="mb-0">
-                        <a class="d-block" href="index.php" title="Home">
+                        <a class="d-block" href="/index.php" title="Home">
                             <img class="img-fluid" src="/doc/HITID-LOGO-150.png" alt="Logo"
                                 srcset="/doc/HITID-LOGO-150.png">
                         </a>
@@ -48,10 +48,10 @@
                             </li>
                             <!-- <li><a href="#" title="">Yönetim Kurulu</a></li> -->
                             <!-- <li><a href="#" title="">Çalışma Grupları</a></li> -->
-                            <li><a href="/faaliyetler/25-aralik-2023-6-hla-gunleri.php" title="">Faaliyetler</a></li>
+                            <li><a href="/faaliyetler/2024-balkan-ept-toplantisi.php" title="">Faaliyetler</a></li>
                             <li><a href="/egitimler.php" title="">Eğitimler</a></li>
                             <!-- <li><a href="#" title="">Üyelik Formu</a></li> -->
-                            <li><a href="/duyurular/balkan-ept-meeting.php" title="">Duyurular</a></li>
+                            <li><a href="/duyurular.php" title="">Duyurular</a></li>
                             <li><a href="/iletisim.php" title="">İletişim</a></li>
                         </ul>
                     </div>
@@ -88,10 +88,10 @@
                         </li>
                         <!-- <li><a href="#" title="">Yönetim Kurulu</a></li> -->
                         <!-- <li><a href="#" title="">Çalışma Grupları</a></li> -->
-                        <li><a href="/faaliyetler/25-aralik-2023-6-hla-gunleri.php" title="">Faaliyetler</a></li>
+                        <li><a href="/faaliyetler/2024-balkan-ept-toplantisi.php" title="">Faaliyetler</a></li>
                         <li><a href="/egitimler.php" title="">Eğitimler</a></li>
                         <!-- <li><a href="#" title="">Üyelik Formu</a></li> -->
-                        <li><a href="/duyurular/balkan-ept-meeting.php" title="">Duyurular</a></li>
+                        <li><a href="/duyurular.php" title="">Duyurular</a></li>
                         <li><a href="/iletisim.php" title="">İletişim</a></li>
                     </ul>
                 </div>
@@ -126,10 +126,10 @@
             </li>
             <!-- <li><a href="#" title="">Yönetim Kurulu</a></li> -->
             <!-- <li><a href="#" title="">Çalışma Grupları</a></li> -->
-            <li><a href="/faaliyetler/25-aralik-2023-6-hla-gunleri.php" title="">Faaliyetler</a></li>
+            <li><a href="/faaliyetler/2024-balkan-ept-toplantisi.php" title="">Faaliyetler</a></li>
             <li><a href="/egitimler.php" title="">Eğitimler</a></li>
             <!-- <li><a href="#" title="">Üyelik Formu</a></li> -->
-            <li><a href="/duyurular/balkan-ept-meeting.php" title="">Duyurular</a></li>
+            <li><a href="/duyurular.php" title="">Duyurular</a></li>
             <li><a href="/iletisim.php" title="">İletişim</a></li>
         </ul>
     </div><!-- Responsive Menu -->

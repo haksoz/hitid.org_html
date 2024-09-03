@@ -2,7 +2,7 @@
 <html lang="TR">
 
 <head>
-    <title>14 Nisan 2023 Hitid Okulu, HLA nedir? | HİTİD</title>
+    <title>14 Nisan 2023 Hitid Okulu, HLA nedir? | HLA İmmünogenetiği ve Transplantasyon İmmünolojisi Derneği</title>
     <?php include('../head.php') ?>
 
 </head>

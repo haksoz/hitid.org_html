@@ -2,7 +2,7 @@
 <html lang="TR">
 
 <head>
-    <title>30 Kasım 2022 HİTİD Tanışma Toplantısı | HİTİD</title>
+    <title>30 Kasım 2022 HİTİD Tanışma Toplantısı | HLA İmmünogenetiği ve Transplantasyon İmmünolojisi Derneği</title>
     <?php include('../head.php') ?>
 
 </head>

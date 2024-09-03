@@ -2,7 +2,7 @@
 <html lang="TR">
 
 <head>
-    <title>HİTİD</title>
+    <title>HİTİD (HLA İmmünogenetiği ve Transplantasyon İmmünolojisi Derneği)</title>
     <?php include('head.php') ?>
 </head>
 
@@ -181,7 +181,7 @@
                 <div class="container">
                     <div class="sec-title v2 text-center w-100">
                         <div class="sec-title-inner d-inline-block">
-                            <h2 class="mb-0 text-color3">Haberler</h2>
+                            <h2 class="mb-0 text-color3">Duyurular</h2>
                         </div>
                     </div><!-- Sec Title -->
                     <div class="news-wrap position-relative w-100">

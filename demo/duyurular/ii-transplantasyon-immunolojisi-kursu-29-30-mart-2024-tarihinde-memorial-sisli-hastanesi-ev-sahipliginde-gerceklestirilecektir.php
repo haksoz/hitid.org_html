@@ -2,7 +2,7 @@
 <html lang="TR">
 
 <head>
-    <title>II. Transplantasyon İmmünolojisi Kursu | HİTİD</title>
+    <title>II. Transplantasyon İmmünolojisi Kursu 29-30 Mart 2024 tarihinde Memorial Şişli Hastanesi ev sahipliğinde gerçekleştirilecektir. | HİTİD (HLA İmmünogenetiği ve Transplantasyon İmmünolojisi Derneği)</title>
     <?php include('../head.php') ?>
 
 </head>
@@ -17,12 +17,11 @@
                 <div class="container">
                     <div class="page-title-wrap text-center w-100">
                         <div class="page-title-inner d-inline-block">
-                            <h1 class="mb-0">II. Transplantasyon İmmünolojisi Kursu</h1>
+                            <h1 class="mb-0">Duyurular</h1>
                             <ol class="breadcrumb mb-0 justify-content-center">
-                                <li class="breadcrumb-item"><a href="index.php" title="">Anasayfa</a></li>
-                                <li class="breadcrumb-item">Duyurular</li>
-                                <li class="breadcrumb-item active">II. Transplantasyon İmmünolojisi Kursu</li>
-                            </ol>
+                                    <li class="breadcrumb-item"><a href="/index.php" title="">Anasayfa</a></li>
+                                    <li class="breadcrumb-item"><a href="/duyurular.php" title="">Duyurular</a></li>
+                                </ol>
                         </div>
                     </div><!-- Page Title Wrap -->
                 </div>
@@ -32,24 +31,14 @@
             <div class="w-100 pt-90 pb-90 position-relative">
                 <div class="container">
                     <div class="page-wrap position-relative w-100">
-                        <div class="row mrg30">
-                            <div class="col-md-6 col-sm-8 col-lg-4">
-                                <aside class="sidebar w-100">
-                                    <div class="widget-box v3 brd-rd10 bg-color6 services_widget overflow-hidden w-100">
-                                        <h4 class="position-relative tit-shp widget-title3">Duyurular</h4>
-                                        <ul class="mb-0 list-unstyled w-100">
-                                            <?php include('solmenu-duyurular.php') ?>
-                                        </ul>
-                                    </div>
-                                </aside><!-- Sidebar -->
-                            </div>
+                        <div class="row mrg30 justify-content-center">
+                            
                              <div class="col-md-12 col-sm-12 col-lg-8  order-mobile-first">
                                 <div class="post-detail w-100">
-                                    <h3>II. Transplantasyon
-                                        İmmünolojisi Kursu</h3>
-                                    <p>II. Transplantasyon İmmünolojisi Kursu
-                                        29-30 Mart 2024 tarihinde Memorial Şişli Hastanesi ev sahipliğinde
-                                        gerçekleştirilecektir.</p>
+                                    <h3>II. Transplantasyon İmmünolojisi Kursu 29-30 Mart 2024 tarihinde Memorial Şişli Hastanesi ev sahipliğinde gerçekleştirilecektir.</h3>
+                                    <ul class="meta3 list-unstyled d-flex flex-wrap align-items-center w-100 pb-3">
+                                        <li><span class="post-detail-date rounded-pill scndry-bg">1 Ağustos 2024</span></li>
+                                    </ul>
                                     <div class="post-feat-img serv-detail-img brd-rd10 position-relative overflow-hidden w-100">
                                         <div class="row mrg30">
                                             <div class="col-md-6 col-sm-6 col-lg-6">

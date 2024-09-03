@@ -7,7 +7,7 @@
                     <div class="col-lg-2"></div>
                     <div class="col-md-6 col-sm-6 col-lg-6">
                         <div class="widget-box v2 w-100">
-                            <h4 class="widget-title2 position-relative">İletişim</h4>
+                            <h4 class="widget-title2 position-relative">HLA İmmünogenetiği ve <br>Transplantasyon İmmünolojisi Derneği</h4>
                             <ul class="contact-info-list mb-0 list-unstyled w-100">
                                 <li>Adres: Aksaray Mah. İnkılap Cad. Koşar Han. <br>No:16 İç Kapı 204 Fatih / İSTANBUL</li>
                                 <li>E-Posta: <a href="mailto:info@hitid.org" title="">info@hitid.org</a></li>

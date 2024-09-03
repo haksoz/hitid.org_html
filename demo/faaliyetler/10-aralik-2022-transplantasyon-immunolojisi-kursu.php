@@ -2,7 +2,7 @@
 <html lang="TR">
 
 <head>
-    <title>10 Aralık 2022 Transplantasyon İmmünolojisi Kursu | HİTİD</title>
+    <title>10 Aralık 2022 Transplantasyon İmmünolojisi Kursu | HLA İmmünogenetiği ve Transplantasyon İmmünolojisi Derneği</title>
     <?php include('../head.php') ?>
 
 </head>

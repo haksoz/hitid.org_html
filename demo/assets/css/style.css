@@ -1771,8 +1771,8 @@ header.style2 .logo.v2 {
   left: -5px;
 }
 .logo.v2 a {
-  padding: 0.975rem 1.5rem;
-  padding-top: 20px;
+  padding: 0.4rem 1rem;
+  padding-top: 30px;
 }
 header.style2 .container {max-width: 96.875rem;}
 header.style2 nav > div > ul > li > a {padding: 0;}

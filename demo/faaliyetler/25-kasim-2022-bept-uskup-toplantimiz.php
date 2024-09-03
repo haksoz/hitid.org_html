@@ -2,7 +2,7 @@
 <html lang="TR">
 
 <head>
-    <title>25 Kasım 2022 BEPT - ÜSKÜP Toplantımız | HİTİD</title>
+    <title>25 Kasım 2022 BEPT - ÜSKÜP Toplantımız | HLA İmmünogenetiği ve Transplantasyon İmmünolojisi Derneği</title>
     <?php include('../head.php') ?>
 
 </head>

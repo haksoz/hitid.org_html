@@ -2,7 +2,7 @@
 <html lang="TR">
 
 <head>
-    <title>Yönetim Kurulu | HİTİD</title>
+    <title>Yönetim Kurulu | HİTİD (HLA İmmünogenetiği ve Transplantasyon İmmünolojisi Derneği)</title>
     <?php include('head.php') ?>
 
 </head>
@@ -19,11 +19,6 @@
                     <div class="page-title-wrap text-center w-100">
                         <div class="page-title-inner d-inline-block">
                             <h1 class="mb-0">Yönetim Kurulu</h1>
-                            <ol class="breadcrumb mb-0 justify-content-center">
-                                <li class="breadcrumb-item"><a href="index.php" title="">Anasayfa</a></li>
-                                <li class="breadcrumb-item"><a href="#" title=""> Hakkımızda</a></li>
-                                <li class="breadcrumb-item active">Yönetim Kurulu</li>
-                            </ol>
                         </div>
                     </div><!-- Page Title Wrap -->
                 </div>

@@ -2,7 +2,7 @@
 <html lang="TR">
 
 <head>
-    <title>VI.HLA Günleri | HİTİD</title>
+    <title>VI.HLA Günleri | HLA İmmünogenetiği ve Transplantasyon İmmünolojisi Derneği</title>
     <?php include('../head.php') ?>
 
 </head>

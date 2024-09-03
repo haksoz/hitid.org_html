@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="TR">
     <head>
-        <title>Duyurular | HİTİD</title>
+        <title>Duyurular | HİTİD (HLA İmmünogenetiği ve Transplantasyon İmmünolojisi Derneği)</title>
         <?php include('head.php') ?>
 
     </head>
@@ -29,55 +29,33 @@
                 <div class="w-100 pt-90 pb-90 position-relative">
                     <div class="container">
                         <div class="page-wrap position-relative w-100">
-                            <div class="row mrg30">
-                                <div class="col-md-6 col-sm-8 col-lg-4">
-                                    <aside class="sidebar w-100">
-                                        <div class="widget-box v3 brd-rd10 bg-color6 services_widget overflow-hidden w-100">
-                                            <h4 class="position-relative tit-shp widget-title3">Duyurular</h4>
-                                            <ul class="mb-0 list-unstyled w-100">
-                                                <li><a href="#" title="">Riding Club Tour</a></li>
-                                                <li><a href="#" title="">Equestrian Training</a></li>
-                                                <li><a href="#" title="">Horse Riding</a></li>
-                                                <li><a href="#" title="">Adults Training</a></li>
-                                                <li><a href="#" title="">Executive Coaching</a></li>
-                                                <li><a href="#" title="">Regular Classes</a></li>
-                                            </ul>
-                                        </div>
-                                    </aside><!-- Sidebar -->
-                                </div>
+                            <div class="row mrg30 justify-content-center">
                                  <div class="col-md-12 col-sm-12 col-lg-8  order-mobile-first">
                                     <div class="post-detail w-100">
-                                        <div class="post-feat-img serv-detail-img brd-rd10 position-relative overflow-hidden w-100">
-                                            <img class="img-fluid w-100" src="assets/images/resources/service-detail-img.jpg" alt="Service Detail Image">
-                                        </div>
-                                        <p class="mb-0">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui <a href="javascript:void(0);" title="">officia deserunt</a> mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat <a href="javascript:void(0);" title="">facere possimus</a>, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum <a href="javascript:void(0);" title="">necessitatibus</a> saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur.</p>
-                                        <blockquote class="blockquote text-center thm-bg brd-rd10">
-                                            <i class="fas fa-quote-left d-block"></i>
-                                            <p class="mb-0">dolor st amet, consetetur sadipscing elit dolore lorime smagna aliquyam.</p>
-                                        </blockquote>
-                                        <h3 class="mb-0">How We Can Help You About Equestrian Training:</h3>
-                                        <p class="mb-0">No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally <a href="javascript:void(0);" title="">encounter</a> consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally <a href="javascript:void(0);" title="">circumstances</a> occur in which toil and pain can procure him some great pleasure.</p>
-                                        <figure class="alignright position-relative overflow-hidden brd-rd10"><img class="img-fluid w-100" src="assets/images/resources/service-detail-img2.jpg" alt="Service Detail Image 2"><a class="position-absolute" href="https://player.vimeo.com/video/183609522" data-fancybox title=""><i class="fas fa-play-circle"></i></a></figure>
-                                        <p class="mb-0">Lorem ipsum dosectetur adipisicing elit, sed ectetur Nulla fringilla purus at leo dignisntum cursus nisl aliquam. <a href="javascript:void(0);" title="">Aliquam</a> et elit eu nunci consectetur Nulla fringillatetur adipisicing elit mentum accumsan leo vel tempor.</p>
                                         <ul class="mb-0 list-unstyled">
-                                            <li>Aliquam et elit eu nunci consectetur.</li>
-                                            <li>Nulla fringillatetur adipisic</li>
-                                            <li>Dosectetur adipisicing elit, sed acte</li>
-                                            <li>Malesuada fames ac turpis egestas</li>
+                                            <li>
+                                                <a href="/duyurular/balkan-ept-toplantisi-15-16-november-2024-istanbul-marriot-hotel-sislide-yapilacaktir.php">Balkan EPT Toplantısı, 15-16 November 2024, İstanbul Marriot Hotel, Şişli'de yapılacaktır.</a>
+                                            </li>
+                                            <li>
+                                                <a href="/duyurular/ii-transplantasyon-immunolojisi-kursu-29-30-mart-2024-tarihinde-memorial-sisli-hastanesi-ev-sahipliginde-gerceklestirilecektir.php">II. Transplantasyon İmmünolojisi Kursu 29-30 Mart 2024 tarihinde Memorial Şişli Hastanesi ev sahipliğinde gerçekleştirilecektir.</a>
+                                            </li>
+
+                                            <li>
+                                                <a href="/duyurular/i-hitid-transplantasyon-gunleri-ni-19-kasim-2023-tarihinde-ankarada-gerceklestirecegiz.php">I. HİTİD Transplantasyon Günleri” ni 19 Kasım 2023 tarihinde Ankara’da gerçekleştireceğiz.</a>
+                                            </li>
+
+                                            <li>
+                                                <a href="/duyurular/avrupa-immunogenetik-federasyonu-efi-8-bolge-balkanlar-ept-toplantisi-na-katilarak-ulkemizi-basari-ile-temsil-ettik.php">“Avrupa İmmünogenetik Federasyonu (EFI) 8. Bölge: Balkanlar EPT Toplantısı” na katılarak ülkemizi başarı ile temsil ettik.</a>
+                                            </li>
+                                            <li>
+                                                <a href="/duyurular/8-9-haziran-tarihlerinde-yapilacak-olan-transplantasyon-immunolojisi-kursuna-artan-talep-sebebiyle-yer-degisikligi.php">8-9 Haziran tarihlerinde yapılacak olan Transplantasyon İmmünolojisi Kursuna artan talep sebebiyle yer değişikliği</a>
+                                            </li>
+                                            <li>
+                                                <a href="/duyurular/2023-yili-olagan-genel-kurul-toplantisi.php">2023 yılı olağan genel kurul toplantısı</a>
+                                            </li>
+
                                         </ul>
                                     </div>
-
-                                    <div class="widget-box v3 brd-rd10 bg-color6 instagram_widget overflow-hidden w-100 mt-50">
-                                            <h4 class="position-relative tit-shp widget-title3">Galeri</h4>
-                                            <ul class="insta-gal-list list-unstyled d-flex flex-wrap align-items-center">
-                                                <li><a href="assets/images/resources/insta-gal-img1-1.jpg" data-fancybox="gallery" title=""><img class="img-fluid w-100" src="assets/images/resources/insta-gal-img1-1.jpg" alt="Instagram Gallery Image 1"></a></li>
-                                                <li><a href="assets/images/resources/insta-gal-img1-2.jpg" data-fancybox="gallery" title=""><img class="img-fluid w-100" src="assets/images/resources/insta-gal-img1-2.jpg" alt="Instagram Gallery Image 2"></a></li>
-                                                <li><a href="assets/images/resources/insta-gal-img1-3.jpg" data-fancybox="gallery" title=""><img class="img-fluid w-100" src="assets/images/resources/insta-gal-img1-3.jpg" alt="Instagram Gallery Image 3"></a></li>
-                                                <li><a href="assets/images/resources/insta-gal-img1-4.jpg" data-fancybox="gallery" title=""><img class="img-fluid w-100" src="assets/images/resources/insta-gal-img1-4.jpg" alt="Instagram Gallery Image 4"></a></li>
-                                                <li><a href="assets/images/resources/insta-gal-img1-5.jpg" data-fancybox="gallery" title=""><img class="img-fluid w-100" src="assets/images/resources/insta-gal-img1-5.jpg" alt="Instagram Gallery Image 5"></a></li>
-                                                <li><a href="assets/images/resources/insta-gal-img1-6.jpg" data-fancybox="gallery" title=""><img class="img-fluid w-100" src="assets/images/resources/insta-gal-img1-6.jpg" alt="Instagram Gallery Image 6"></a></li>
-                                            </ul>
-                                        </div>
                                 </div>
                             </div>
                         </div><!-- Page Wrap -->
