@@ -36,6 +36,9 @@
                                 <div class="post-feat-img serv-detail-img brd-rd10 position-relative overflow-hidden w-100">
                                     <img class="img-fluid w-100" src="/doc/faaliyetler/balkanEPT16_9kapak.jpg" alt="Service Detail Image">
                                     <p>Balkan EPT Meeting, 15-16 November 2024, İstanbul Marriot Hotel, Şişli</p>
+
+                                    <p>
+                                        <a class="thm-btn scndry-bg brd-rd5 d-inline-block position-relative overflow-hidden" href="/doc/pdf/eptbrochure.pdf" target="_blank" title=""><i class="fas fa-download"></i>Click to download EPT Brochure</a></p>
                                 </div>
 
 
