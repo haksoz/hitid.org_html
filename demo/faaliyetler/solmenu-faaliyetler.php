@@ -12,8 +12,6 @@
                                             <li><a href="10-aralik-2022-transplantasyon-immunolojisi-kursu.php" title="2022 Transplantasyon İmmünolojisi Kursu">2022 Transplantasyon İmmünolojisi Kursu</a></li>
                                             <li><a href="30-kasim-2022-hitid-tanisma-toplantisi.php" title="2022 HİTİD Tanışma Toplantısı">2022 HİTİD Tanışma Toplantısı</a></li>
                                             <li><a href="25-kasim-2022-bept-uskup-toplantimiz.php" title="2022 BEPT - ÜSKÜP Toplantımız">2022 BEPT - ÜSKÜP Toplantımız</a></li>
-
-                                            2-transplantasyon-immunolojisi-kursu.php
                                         </ul>
                                     </div>
                                 </aside>
