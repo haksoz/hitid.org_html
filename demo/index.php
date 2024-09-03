@@ -25,7 +25,9 @@
                                         <span class="circle-two"></span>
                                     </div>
                                     <div class="image">
-                                        <img src="doc/balkanEPT16_9kapak.jpg" alt="" />
+                                        <a href="/faaliyetler/2024-balkan-ept-toplantisi.php">
+                                            <img src="doc/balkanEPT16_9kapak.jpg" alt="" />
+                                        </a>
                                     </div>
                                 </div>
                             </div>
@@ -89,7 +91,7 @@
                             <div class="col-md-6 col-sm-6 col-lg-4">
                                 <div class="news-box w-100">
                                     <div class="news-box-inner brd-rd10 bg-color6 position-relative w-100">
-                                        <h3 class="mb-0"><a href="balkan-ept-meeting.php" title="">Balkan EPT Meeting</a></h3>
+                                        <h3 class="mb-0"><a href="/duyurular/balkan-ept-toplantisi-15-16-november-2024-istanbul-marriot-hotel-sislide-yapilacaktir.php" title="">Balkan EPT Meeting</a></h3>
 
                                         <p class="mb-0">Balkan EPT Toplantısı, 15-16 November 2024, İstanbul Marriot Hotel,
                                             Şişli'de yapılacaktır.</p>
@@ -99,8 +101,7 @@
                             <div class="col-md-6 col-sm-6 col-lg-4">
                                 <div class="news-box w-100">
                                     <div class="news-box-inner brd-rd10 bg-color6 position-relative w-100">
-                                        <h3 class="mb-0"><a href="2-transplantasyon-immunolojisi-kursu.php" title="">II. Transplantasyon
-                                                İmmünolojisi Kursu</a></h3>
+                                        <h3 class="mb-0"><a href="/duyurular/ii-transplantasyon-immunolojisi-kursu-29-30-mart-2024-tarihinde-memorial-sisli-hastanesi-ev-sahipliginde-gerceklestirilecektir.php" title="">II. Transplantasyon İmmünolojisi Kursu</a></h3>
 
                                         <p class="mb-0">II. Transplantasyon İmmünolojisi Kursu
                                             29-30 Mart 2024 tarihinde Memorial Şişli Hastanesi ev sahipliğinde
@@ -111,8 +112,7 @@
                             <div class="col-md-6 col-sm-6 col-lg-4">
                                 <div class="news-box w-100">
                                     <div class="news-box-inner brd-rd10 bg-color6 position-relative w-100">
-                                        <h3 class="mb-0"><a href="1-hitid-transplantasyon-gunleri.php" title="">I. HİTİD Transplantasyon
-                                                Günleri</a></h3>
+                                        <h3 class="mb-0"><a href="/duyurular/i-hitid-transplantasyon-gunleri-ni-19-kasim-2023-tarihinde-ankarada-gerceklestirecegiz.php" title="">I. HİTİD Transplantasyon Günleri</a></h3>
 
                                         <p class="mb-0">I. HİTİD Transplantasyon Günleri” ni 19
                                             Kasım 2023 tarihinde Ankara’da gerçekleştireceğiz.</p>
@@ -122,7 +122,7 @@
                             <div class="col-md-6 col-sm-6 col-lg-4">
                                 <div class="news-box w-100">
                                     <div class="news-box-inner brd-rd10 bg-color6 position-relative w-100">
-                                        <h3 class="mb-0"><a href="balkanlar-ept-toplantisi.php" title="">Balkanlar EPT Toplantısı</a></h3>
+                                        <h3 class="mb-0"><a href="/duyurular/avrupa-immunogenetik-federasyonu-efi-8-bolge-balkanlar-ept-toplantisi-na-katilarak-ulkemizi-basari-ile-temsil-ettik.php" title="">Balkanlar EPT Toplantısı</a></h3>
 
                                         <p class="mb-0">“Avrupa İmmünogenetik Federasyonu (EFI) 8.
                                             Bölge: Balkanlar EPT Toplantısı” na katılarak ülkemizi başarı ile temsil
@@ -175,6 +175,7 @@
                 </div>
             </div>
         </section>
+        <!--
         <section>
             <div class="w-100 pt-110 white-layer opc8 pb-100 position-relative">
                 <div class="fixed-bg" style="background-image: url(assets/images/parallax-bg5.jpg);"></div>
@@ -183,7 +184,7 @@
                         <div class="sec-title-inner d-inline-block">
                             <h2 class="mb-0 text-color3">Duyurular</h2>
                         </div>
-                    </div><!-- Sec Title -->
+                    </div>
                     <div class="news-wrap position-relative w-100">
                         <div class="row news-caro mrg30">
                             <div class="col-md-6 col-sm-6 col-lg-4">
@@ -271,10 +272,12 @@
                                 </div>
                             </div>
                         </div>
-                    </div><!-- News Wrap -->
+                    </div>
                 </div>
             </div>
         </section>
+
+    -->
 
         <?php include('footer.php') ?>
 

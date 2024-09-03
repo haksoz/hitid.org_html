@@ -39,22 +39,12 @@
                                     <ul class="meta3 list-unstyled d-flex flex-wrap align-items-center w-100 pb-3">
                                         <li><span class="post-detail-date rounded-pill scndry-bg">1 Ağustos 2024</span></li>
                                     </ul>
+                                    <p>Balkan EPT Toplantısı, 15-16 November 2024, İstanbul Marriot Hotel, Şişli'de yapılacaktır.</p>
+                                    <p>Daha fazla bilgi için web sitemizin faaliyetler bölümünü ziyaret edebilirsiniz</p>
                                     <div class="post-feat-img serv-detail-img brd-rd10 position-relative overflow-hidden w-100">
                                         <img class="img-fluid w-100" src="/doc/balkanEPT16_9kapak.jpg" alt="Service Detail Image">
                                     </div>
                                 </div>
-
-                                <!-- <div class="widget-box v3 brd-rd10 bg-color6 instagram_widget overflow-hidden w-100 mt-50">
-                                    <h4 class="position-relative tit-shp widget-title3">Galeri</h4>
-                                    <ul class="insta-gal-list list-unstyled d-flex flex-wrap align-items-center">
-                                        <li><a href="assets/images/resources/insta-gal-img1-1.jpg" data-fancybox="gallery" title=""><img class="img-fluid w-100" src="assets/images/resources/insta-gal-img1-1.jpg" alt="Instagram Gallery Image 1"></a></li>
-                                        <li><a href="assets/images/resources/insta-gal-img1-2.jpg" data-fancybox="gallery" title=""><img class="img-fluid w-100" src="assets/images/resources/insta-gal-img1-2.jpg" alt="Instagram Gallery Image 2"></a></li>
-                                        <li><a href="assets/images/resources/insta-gal-img1-3.jpg" data-fancybox="gallery" title=""><img class="img-fluid w-100" src="assets/images/resources/insta-gal-img1-3.jpg" alt="Instagram Gallery Image 3"></a></li>
-                                        <li><a href="assets/images/resources/insta-gal-img1-4.jpg" data-fancybox="gallery" title=""><img class="img-fluid w-100" src="assets/images/resources/insta-gal-img1-4.jpg" alt="Instagram Gallery Image 4"></a></li>
-                                        <li><a href="assets/images/resources/insta-gal-img1-5.jpg" data-fancybox="gallery" title=""><img class="img-fluid w-100" src="assets/images/resources/insta-gal-img1-5.jpg" alt="Instagram Gallery Image 5"></a></li>
-                                        <li><a href="assets/images/resources/insta-gal-img1-6.jpg" data-fancybox="gallery" title=""><img class="img-fluid w-100" src="assets/images/resources/insta-gal-img1-6.jpg" alt="Instagram Gallery Image 6"></a></li>
-                                    </ul>
-                                </div> -->
                             </div>
                         </div>
                     </div><!-- Page Wrap -->
