@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="TR">
+<html lang="en">
 
 <head>
     <title>2024 Balkan EPT Toplantısı | HİTİD (HLA İmmünogenetiği ve Transplantasyon İmmünolojisi Derneği)</title>
@@ -35,12 +35,12 @@
                                 
                                 <div class="post-feat-img serv-detail-img brd-rd10 position-relative overflow-hidden w-100">
                                     <img class="img-fluid w-100" src="/doc/faaliyetler/balkanEPT16_9kapak.jpg" alt="Service Detail Image">
-                                    <p>Balkan EPT Meeting, 15-16 November 2024, İstanbul Marriot Hotel, Şişli</p>
+                                </div>
+                                <div class="v3 brd-rd10 instagram_widget overflow-hidden ">
 
-                                    <p>
-                                        <a class="thm-btn scndry-bg brd-rd5 d-inline-block position-relative overflow-hidden" href="/doc/pdf/eptbrochure.pdf" target="_blank" title=""><i class="fas fa-download"></i>Click to download EPT Brochure</a></p>
-
-                                        
+                                    <p style="text-align: center;">
+                                        <a class="thm-btn scndry-bg brd-rd5 d-inline-block position-relative overflow-hidden" href="/doc/pdf/eptbrochure.pdf" target="_blank" title=""><i class="fas fa-download"></i>Click to download EPT Brochure</a>
+                                    </p>
                                 </div>
                                 <div class="widget-box v3 brd-rd10 bg-color6 instagram_widget overflow-hidden w-100">
                                     <blockquote class="blockquote text-center thm-bg brd-rd10">
@@ -95,7 +95,7 @@
                                     <blockquote class="blockquote text-center thm-bg brd-rd10">
                                         <p class="mb-0">Registration & Accommodation</p>
                                     </blockquote>
-                                    <p>
+                                    <p style="text-align: center;">
                                         <a class="thm-btn scndry-bg brd-rd5 d-inline-block position-relative overflow-hidden" href="https://hitid.org/form/" target="_blank" title="">Click to Registration Form</a></p>
 
 <style type="text/css">
@@ -110,8 +110,8 @@
 @media screen and (max-width: 767px) {.tg {width: auto !important;}.tg col {width: auto !important;}.tg-wrap {overflow-x: auto;-webkit-overflow-scrolling: touch;}}</style>
 <div class="tg-wrap">
     <table class="tg" style="undefined;table-layout: fixed; width: 342px"><colgroup>
-<col style="width: 191px">
-<col style="width: 151px">
+<col style="width: 200px">
+<col style="width: 200px">
 </colgroup>
 <thead>
   <tr>
@@ -144,8 +144,9 @@
 
 <div class="tg-wrap">
     <table class="tg" style="undefined;table-layout: fixed; width: 342px"><colgroup>
-<col style="width: 191px">
-<col style="width: 151px">
+<col style="width: 200px">
+<col style="width: 200px">
+<col style="width: 200px">
 </colgroup>
 <thead>
   <tr>
@@ -235,6 +236,29 @@
 <p>14. All abstracts accepted for presentation will be published in the Bulgarian Journal of Clinical Immunology</p>
 
 
+                                </div>
+
+                                <div class="widget-box v3 brd-rd10 bg-color6 instagram_widget overflow-hidden w-100" style="text-align: center;">
+                                    <blockquote class="blockquote text-center thm-bg brd-rd10">
+                                        <p class="mb-0">Contact</p>
+                                    </blockquote>
+
+                                    <h4>SCIENTIFIC SECRETARIAT</h4>
+                                    <img src="/doc/HITID-LOGO-150.png">
+                                    <br><br>
+                                    <p>Address: Aksaray Mah. İnkılap Cad. Koşar Han. No:16 İç Kapı 204 Fatih/ İSTANBUL<br>
+                                    E-mail: <a href="mailto:info@hitid.org" title="">info@hitid.org</a></p>
+                                    <br><br>
+                                    <h4>ORGANIZING SECRETARIAT</h4>
+                                    <img src="https://internationalpediatricacademy.org/doc/solo-event-logo.png">
+                                    <br><br>
+                                    <p>Address: Esentepe Mah. Yazarlar Sok. No:16 Şişli, 34394, Istanbul / Türkiye<br>
+                                    <a href="">Tel: +90 (212) 279 00 20</a><br>
+                                    <a href="https://www.soloevent.net/" target="_blank">Web: www.soloevent.net</a><br>
+                                    <a href="mailto:hitid@soloevent.net" title="">E-mail: hitid@soloevent.net</a>
+
+                               
+                                    </p>
                                 </div>
 
                             </div>
