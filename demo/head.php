@@ -10,6 +10,6 @@
 <link rel="stylesheet" href="/assets/css/perfect-scrollbar.css">
 <link rel="stylesheet" href="/assets/css/slick.css">
 <link rel="stylesheet" href="/assets/css/style.css?v=006">
-<link rel="stylesheet" href="/assets/css/responsive.css?v=004">
-<link rel="stylesheet" href="/assets/css/color3.css?v=003">
+<link rel="stylesheet" href="/assets/css/responsive.css?v=006">
+<link rel="stylesheet" href="/assets/css/color3.css?v=006">
 <link rel="stylesheet" href="/assets/css/owl.css">

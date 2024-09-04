@@ -731,7 +731,7 @@ ul.bottom-links > li {font-size: 1rem !important;}
 .post-detail.blog-detail .social-links5 > a:not(:first-child), 
 .post-detail.course-detail .social-links5 > a:not(:first-child) {margin: 0 0 0 5px;}
 .meta3 > li:not(:first-child) {margin-left: 1.25rem;}
-blockquote.blockquote {padding: 2rem 1.5rem;}
+blockquote.blockquote {padding: 1rem 1.5rem;}
 blockquote.blockquote > p {max-width: 100% !important;}
 .post-detail.blog-detail blockquote.blockquote {margin-bottom: 3rem;}
 .author-box, 
