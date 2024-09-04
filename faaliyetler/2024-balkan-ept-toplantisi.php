@@ -250,7 +250,7 @@
                                     E-mail: <a href="mailto:info@hitid.org" title="">info@hitid.org</a></p>
                                     <br><br>
                                     <h4>ORGANIZING SECRETARIAT</h4>
-                                    <img src="https://internationalpediatricacademy.org/doc/solo-event-logo.png">
+                                    <img src="/doc/solo-event-logo.png">
                                     <br><br>
                                     <p>Address: Esentepe Mah. Yazarlar Sok. No:16 Şişli, 34394, Istanbul / Türkiye<br>
                                     <a href="">Tel: +90 (212) 279 00 20</a><br>
