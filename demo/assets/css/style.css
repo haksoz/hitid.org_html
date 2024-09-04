@@ -3249,8 +3249,12 @@ ul.meta + p {margin-top: 14px;}
 .widget-box ul:not(.contact-info-list):not(.ftr-gal-list):not(.insta-gal-list) > li a {
   position: relative;
   display: block;
+  /*
   padding-left: 1.875rem;
+  */
 }
+
+/*
 .widget-box ul:not(.contact-info-list):not(.ftr-gal-list):not(.insta-gal-list) > li a:before {
   content: "\f116";
   font-family: Flaticon;
@@ -3260,6 +3264,7 @@ ul.meta + p {margin-top: 14px;}
   line-height: inherit;
   font-size: 13px;
 }
+*/
 .bg-color7 .widget-box ul:not(.contact-info-list):not(.ftr-gal-list):not(.insta-gal-list) > li a:before {color: #b9b9b9;}
 .widget-box ul:not(.contact-info-list):not(.ftr-gal-list):not(.insta-gal-list) > li a:hover:before, 
 .widget-box ul:not(.contact-info-list):not(.ftr-gal-list):not(.insta-gal-list) > li a:focus:before {color: inherit;}
