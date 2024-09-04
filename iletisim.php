@@ -70,6 +70,7 @@
                     </div>
                 </div>
             </section>
+            <!--
             <section>
                 <div class="w-100 pt-100 gray-layer opc7 pb-100 position-relative">
                     <div class="fixed-bg" style="background-image: url();"></div>
@@ -88,10 +89,11 @@
                                 <div class="field-box w-100"><textarea class="brd-rd10 contact_message" name="contact_message" placeholder="Mesajınız" required></textarea></div>
                                 <div class="btn-box w-100"><button class="thm-btn scndry-bg brd-rd10 position-relative overflow-hidden" type="submit" id="submit">Gönder</button></div>
                             </form>
-                        </div><!-- Contact Form -->
+                        </div>
                     </div>
                 </div>
             </section>
+        -->
 
             <?php include('footer.php') ?>
 
