@@ -5171,7 +5171,7 @@ ol.breadcrumb li.breadcrumb-item + li.breadcrumb-item:before {
 .sidebar {margin-bottom: -2.1875rem;}
 .widget-box.v3 {
   margin-bottom: 1rem;
-  padding: 3.125rem 2.8125rem;
+  padding: 2.125rem 2.8125rem;
   max-width: 100%;
 }
 .widget-box .request-consult-title2 > h3 {
@@ -5482,8 +5482,8 @@ ol.breadcrumb li.breadcrumb-item + li.breadcrumb-item:before {
 .social-links5 > a:hover, 
 .social-links5 > a:focus {color: #fff;}
 blockquote.blockquote {
-  padding: 2.375rem 2.5rem 2.1875rem;
-  margin: 3.0625rem 0;
+  padding: 1.0rem 2.5rem 1.0rem;
+    margin: 0.2rem 0.0rem 2.0rem;
 }
 blockquote.blockquote > i {
   color: #fff;
