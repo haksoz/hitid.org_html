@@ -149,8 +149,8 @@
                             </div>
                             <div class="col-md-12 col-sm-12 col-lg-6">
                                 <div class="about-desc v2 w-100">
-                                    <span class="thm-clr font-weight-extrabold d-inline-block border-0">HLA
-                                        İmmünogenetiği ve Transplantasyon İmmünolojisi Derneği</span>
+                                    <h1 class="thm-clr font-weight-extrabold d-inline-block border-0" style="font-size: 28px;">HLA
+                                        İmmünogenetiği ve Transplantasyon İmmünolojisi Derneği</h1>
                                     <h2 class="mb-0">Birlikten kuvvet doğar;</h2>
                                     <strong>Hep birlikte elele haklarımızı ve yetkilerimizi en güçlü şekilde savunmak, geliştirmek, genişletmek.</strong>
                                     <p class="mb-0">Günümüzde “transplantasyon immünolojisi” alanındaki anlayış,

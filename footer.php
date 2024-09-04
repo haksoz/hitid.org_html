@@ -22,14 +22,21 @@
                                 
                             </ul>
                             <div class="social-links3 d-flex flex-wrap align-items-center w-100">
+                                <!--
                                 <a class="rounded-circle twitter-hvr" href="#"
                                     title="Twtiiter" target="_blank"><i class="fab fa-twitter"></i></a>
                                 <a class="rounded-circle facebook-hvr" href="#"
                                     title="Facebook" target="_blank"><i class="fab fa-facebook-f"></i></a>
                                 <a class="rounded-circle youtube-hvr" href="#"
                                     title="Youtube" target="_blank"><i class="fab fa-youtube"></i></a>
-                                <a class="rounded-circle linkedin-hvr" href="#"
-                                    title="Linkedin" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+                                -->
+                                <a class="rounded-circle linkedin-hvr" href="https://www.instagram.com/hitid_2022/"
+                                    title="instagram" target="_blank"><i class="fab fa-instagram"></i></a>
+
+
+                              
+
+
                             </div>
                         </div>
                     </div>
@@ -42,9 +49,9 @@
     <div class="container">
         <div class="bottom-bar-inner d-flex flex-wrap align-items-center justify-content-between w-100">
             <div class="logo v2 z1 bg-color10 position-relative">
-                <h1 class="mb-0"><a class="d-block" href="index.php" title="Home"><img class="img-fluid"
+                <div class="mb-0"><a class="d-block" href="index.php" title="Home"><img class="img-fluid"
                             src="/doc/HITID-LOGO-150.png" alt="Logo"
-                            srcset="/doc/HITID-LOGO-150.png" style="width: 120px;"></a></h1>
+                            srcset="/doc/HITID-LOGO-150.png" style="width: 120px;"></a></div>
             </div><!-- Logo -->
             <div class="copyright-links d-inline-flex flex-wrap align-items-center justify-content-between">
                 <p class="mb-0">Copyright 2024 - <a href="https://ko.com.tr/" title="Kapital Online" target="_blank">Kapital Online.</a></p>

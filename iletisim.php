@@ -56,10 +56,16 @@
                             </div>
                         </div><!-- Contact Info Wrap -->
                         <div class="social-links3 v2 mb-05 d-flex flex-wrap justify-content-center align-items-center w-100">
+                            <!--
                             <a class="brd-rd5 instagram-hvr" href="https://twitter.com/" title="Twtiiter" target="_blank"><i class="fab fa-instagram"></i></a>
                             <a class="brd-rd5 facebook-hvr" href="https://www.facebook.com/" title="Facebook" target="_blank"><i class="fab fa-facebook-f"></i></a>
                             <a class="brd-rd5 youtube-hvr" href="https://www.youtube.com/" title="Youtube" target="_blank"><i class="fab fa-youtube"></i></a>
                             <a class="brd-rd5 linkedin-hvr" href="https://www.linkedin.com/" title="Linkedin" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+                        -->
+
+                            <a class="brd-rd5 instagram-hvr" href="https://www.instagram.com/hitid_2022/" title="instagram" target="_blank"><i class="fab fa-instagram"></i></a>
+
+                            
                         </div>
                     </div>
                 </div>
