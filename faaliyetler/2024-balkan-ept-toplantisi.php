@@ -223,7 +223,7 @@
 • include presenting author's contact details: email address <br>
 • note the presentation type preference (oral presentation/poster presentation) </p>
 
-<p>9. Abstracts must be sent in a Microsoft Word file (.doc or .docx) to hitid@soloevent.net before September 30, 2024. </p>
+<p>9. Abstracts must be sent in a Microsoft Word file (.doc or .docx) to <a href="mailto:hitid@soloevent.net">hitid@soloevent.net</a> before September 30, 2024. </p>
 
 <p>10. After submission, you will receive a confirmation to the e-mail from which it was sent. It is recommended that this email address belongs to the corresponding/presenting author. If you do not receive a confirmation email within 2 days, please contact us at <a href="mailto:bept2023sofia@gmail.com">bept2023sofia@gmail.com</a></p>
 
