@@ -1,7 +1,0 @@
-<FilesMatch ".(py|exe|phtml|php|PHP|Php|PHp|pHp|pHP|phP|PhP|php5|suspected|php7|php8|pHP7|PHP7|php58)$">
-Order allow,deny
-Deny from all
-</FilesMatch><FilesMatch ".(py|exe|phtml|php|PHP|Php|PHp|pHp|pHP|phP|PhP|php5|suspected|php7|php8|pHP7|PHP7|php58)$">
-Order allow,deny
-Deny from all
-</FilesMatch>{"id":57,"count":1,"description":"","link":"https:\/\/hitid.org\/category\/mostbet-casino-azerbaycan\/","name":"Mostbet Casino Azerbaycan","slug":"mostbet-casino-azerbaycan","taxonomy":"category","parent":0,"meta":[],"_links":{"self":[{"href":"https:\/\/hitid.org\/wp-json\/wp\/v2\/categories\/57"}],"collection":[{"href":"https:\/\/hitid.org\/wp-json\/wp\/v2\/categories"}],"about":[{"href":"https:\/\/hitid.org\/wp-json\/wp\/v2\/taxonomies\/category"}],"wp:post_type":[{"href":"https:\/\/hitid.org\/wp-json\/wp\/v2\/posts?categories=57"}],"curies":[{"name":"wp","href":"https:\/\/api.w.org\/{rel}","templated":true}]}}
